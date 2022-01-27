@@ -20,7 +20,7 @@ avatar: https://avatars.githubusercontent.com/u/98428309?v=4
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
   - name: invest
-    url: /
+    url: /invest
   - name: About
     url: /about
   - name: Archive
