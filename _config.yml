@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: 耸肩的阿特拉斯
+name: At1asShrugged
 
 # Short bio or description (displayed in the header)
-description: 科学尚未普及，启蒙还在继续
+description: Bitcoin change the world
 #
 # Flags below are optional
 #
@@ -28,7 +28,7 @@ navigation:
   - name: Tags
     url: /tags
   - name: Theme
-    url: /Theme
+    url: /theme
 
 # Pagination
 paginate: 5
@@ -37,7 +37,7 @@ paginate: 5
   email:
   facebook:
   flickr:
-  github:
+  github: https://github.com/At1asShrugged
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
